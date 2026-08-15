@@ -1,4 +1,6 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=username.visitor-badge&left_text=pocket%20mortys&left_color=%23d34e80&right_color=%23b51569)
 <html>
+  
 <body>
 <div align="center">
 
