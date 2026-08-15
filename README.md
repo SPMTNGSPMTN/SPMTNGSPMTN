@@ -1,13 +1,16 @@
+<html>
+<body>
+<div align="center">
 
-<p align="center">
-Marv⠀⠀,⠀⠀Winnie⠀⠀★⠀⠀any
-<p align="center">
-  int⠀⠀freely⠀⠀/⠀⠀RP⠀⠀iwcau
-  
-<p align="center">
-<img src="https://i.ibb.co/Cszp2LSg/Untitled559-20260313171754.png">
-<p align="center">
-  ★
-<p align="center">
-  what  will  i  do,  now  that  you're  gone?
-</p>
+<img src="https://i.ibb.co/205snLTd/Untitled22-20260815151222.png" align="left" width="250">
+  <table>
+  <tr>
+    <th>
+      $\color{d9738f}\normalsize{\texttt{most of my time is spent offtab, but please}}$ <br>
+      $\color{d9738f}\normalsize{\texttt{don't be afraid to send me a whisper!!!}}$ <br>
+      $\color{d9738f}\normalsize{\texttt{i'm usually sitting and talking with friends,}}$ <br>
+      $\color{d9738f}\normalsize{\texttt{and i'm not too good at keeping conversation.}}$ <br>
+      $\color{d9738f}\normalsize{\texttt{c+h super encouraged :-D}}$ <br>
+    </th>
+  </tr>
+  </table>
