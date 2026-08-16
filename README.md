@@ -6,11 +6,10 @@
   <table>
   <tr>
     <th>
-      $\color{d9738f}\normalsize{\texttt{most of my time is spent offtab, but please}}$ <br>
-      $\color{d9738f}\normalsize{\texttt{don't be afraid to send me a whisper!!!}}$ <br>
-      $\color{d9738f}\normalsize{\texttt{i'm usually sitting and talking with friends,}}$ <br>
-      $\color{d9738f}\normalsize{\texttt{and i'm not too good at keeping conversation.}}$ <br>
-      $\color{d9738f}\normalsize{\texttt{c+h super encouraged :-D}}$ <br>
+      $\color{d9738f}\normalsize{\texttt{c + h enc}}$ <br>
+      $\color{cf607d}\normalsize{\texttt{i' m usually above market or at the utdr area}}$ <br>
+      $\color{a8584c}\normalsize{\texttt{idling like most oft he time but i Will talk}}$ <br>
+      $\color{dd995a}\normalsize{\texttt{i like RaM and deltarune}}$ <br>
     </th>
   </tr>
   </table>
