@@ -7,7 +7,7 @@
   <tr>
     <th>
       $\color{58705c}\normalsize{\texttt{c + h, int super encouraged!!!}}$ <br>
-      $\color{46665b}\normalsize{\texttt{i' m usually above market or at the utdr area}}$ <br>
+      $\color{46665b}\normalsize{\texttt{i' m usually hanging above market or under the library}}$ <br>
       $\color{6b3938}\normalsize{\texttt{most of my time is spent idling unless i'm with friends,}}$ <br>
       $\color{692636}\normalsize{\texttt{but please don't be afraid to say hello or interact with me!!!}}$ <br>
     </th>
